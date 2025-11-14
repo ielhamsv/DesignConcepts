@@ -1,0 +1,28 @@
+.bag-primary{
+    background-color: #7AB2B2;
+}
+
+.bag-secondary{
+    background-color: #CDE8E5;
+}
+
+.bag-light{
+    background-color: #EEF7FF;
+}
+
+.bag-dark{
+    background-color: #4D869C;
+}
+
+ul{
+    list-style: none;
+    padding: 0!important;
+    margin: 0;
+}
+a{
+    text-decoration: none!important;
+}
+
+.h100{
+    height: 100vh;
+}
