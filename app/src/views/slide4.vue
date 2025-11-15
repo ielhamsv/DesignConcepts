@@ -9,6 +9,8 @@
   <button class="btn btn-primary">طراحی کلی</button> >>>
   <button class="btn btn-primary">جزئی</button> >>>
   <button class="btn btn-primary">طراحی مبتنی بر شی‌گرایی</button>
+  <br>
+  <br>
   <strong class="bg-primary rounded-2 text-white p-2">مثال:</strong>
   <ol class="mt-2">
     <li>Architectural Thinking</li>

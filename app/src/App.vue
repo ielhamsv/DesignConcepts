@@ -35,40 +35,42 @@
             <li class="py-3 border-bottom text-center">
               <router-link class="fw-bold text-white dropdown-toggle" to="slide2" data-bs-toggle="dropdown" aria-expanded="false">The Design Process</router-link>
               <ul class="dropdown-menu">
-                <li><a href="" class="dropdown-item"><router-link to="slide2">The Design Process</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="slide3">Software Quality Guidelines & Attributes</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Evolution of Software Design</router-link> </a></li>
+                <li><a class="dropdown-item"><router-link to="slide2">The Design Process</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide3">Software Quality Guidelines & Attributes</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide4">Evolution of Software Design</router-link> </a></li>
               </ul>
             </li>
             <li class="py-3 border-bottom text-center">
-              <router-link class="fw-bold text-white dropdown-toggle" to="" data-bs-toggle="dropdown" aria-expanded="false">Design Concepts</router-link>
+              <router-link class="fw-bold text-white dropdown-toggle" to="slide5" data-bs-toggle="dropdown" aria-expanded="false">Design Concepts</router-link>
               <ul class="dropdown-menu">
-                <li><a href="" class="dropdown-item"> <router-link to="">Abstraction</router-link>  </a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Architecture</router-link>  </a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Patterns</router-link>  </a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Separation of Concerns</router-link>  </a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Modularity</router-link> </a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Information Hiding</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Functional Independence</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Refinement</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Aspects</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Refactoring</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Object-Oriented Design Concepts</router-link></a></li>
-                <li><a href="" class="dropdown-item"> <router-link to="">Design Classes</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide5">Design Concepts</router-link>  </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide6">Abstraction</router-link>  </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide7">Architecture</router-link>  </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide8">Patterns</router-link>  </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide9">Separation of Concerns</router-link>  </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide10">Modularity</router-link> </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide11">Information Hiding</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide12">Functional Independence</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide13">Refinement</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide14">Aspects</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide15">Refactoring</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide16">Object-Oriented Design Concepts</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide17">Design Classes</router-link></a></li>
               </ul>
             </li>
             <li class="py-3 border-bottom text-center">
-              <router-link class="fw-bold text-white dropdown-toggle" to="" data-bs-toggle="dropdown" aria-expanded="false">The Design Model</router-link>
+              <router-link class="fw-bold text-white dropdown-toggle" to="slide18" data-bs-toggle="dropdown" aria-expanded="false">The Design Model</router-link>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item"><router-link to="">Data Design Elements</router-link></a></li>
-                <li><a class="dropdown-item"> <router-link to="">Architectural Design Elements</router-link> </a></li>
-                <li><a class="dropdown-item"> <router-link to="">Interface Design Elements</router-link></a></li>
-                <li><a class="dropdown-item"> <router-link to="">Component-Level Design</router-link></a></li>
-                <li><a class="dropdown-item"> <router-link to="">Deployment-Level Design</router-link></a></li>
+                <li><a class="dropdown-item"><router-link to="slide18">The Design Model</router-link></a></li>
+                <li><a class="dropdown-item"><router-link to="slide19">Data Design Elements</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide20">Architectural Design Elements</router-link> </a></li>
+                <li><a class="dropdown-item"> <router-link to="slide21">Interface Design Elements</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide22">Component-Level Design</router-link></a></li>
+                <li><a class="dropdown-item"> <router-link to="slide23">Deployment-Level Design</router-link></a></li>
               </ul>
             </li>
             <li class="py-3 border-bottom text-center">
-              <router-link class="fw-bold text-white" to="">Summary</router-link>
+              <router-link class="fw-bold text-white" to="slide24">Summary</router-link>
             </li>
           </ul>
         </div>
